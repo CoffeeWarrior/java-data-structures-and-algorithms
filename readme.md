@@ -1,0 +1,2 @@
+This repo is to chart my progress in the java textbook: Data Structures And Algorithms In Java By Michael T Goodrich and Roberto Tamassia
+I may release my notes that I have been taking for this textbook as well.
