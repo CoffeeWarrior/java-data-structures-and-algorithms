@@ -15,6 +15,11 @@ public class TestProgressions {
         GeometricProgression myProgression3 = new GeometricProgression(3);
         myProgression3.printProgression(5);
 
+        System.out.println("");
+
+        FibonacciProgression myProgression4 = new FibonacciProgression();
+        myProgression4.printProgression(10);
+
     }
     
 }

@@ -2,7 +2,6 @@ package JavaTextBook.ChapterTwo.CodeSnippets.Progressions;
 
 public class GeometricProgression extends Progression {
     protected long base;
-
     // inherits variables first and cur
 
     //default constructor sets base as 2
