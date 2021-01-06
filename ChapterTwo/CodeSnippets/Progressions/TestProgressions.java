@@ -19,7 +19,11 @@ public class TestProgressions {
 
         FibonacciProgression myProgression4 = new FibonacciProgression();
         myProgression4.printProgression(10);
-
+        
+        System.out.println("");
+        //creativity problems
+        C2_2 myProgression5 = new C2_2(4,5);
+        myProgression5.printProgression(10);
     }
     
 }
