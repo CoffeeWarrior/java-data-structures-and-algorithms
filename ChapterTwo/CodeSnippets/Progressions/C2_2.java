@@ -1,5 +1,4 @@
 package JavaTextBook.ChapterTwo.CodeSnippets.Progressions;
-import java.lang.*;
 
 class C2_2 extends Progression{
     //first and cur are already definied in progression

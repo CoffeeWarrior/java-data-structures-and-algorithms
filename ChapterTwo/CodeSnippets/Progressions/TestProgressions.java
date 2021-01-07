@@ -24,6 +24,11 @@ public class TestProgressions {
         //creativity problems
         C2_2 myProgression5 = new C2_2(4,5);
         myProgression5.printProgression(10);
+
+        System.out.println("");
+        
+        C2_3 myProgression6 = new C2_3();
+        myProgression6.printProgression(10);
     }
     
 }
